@@ -23,7 +23,7 @@ Feature: Login
     When The user enters valid credentials that belongs to Jhon
     Then The user should be able to login
 
-  @developer @junior
+  @developer @junior @grid
   Scenario: Login as Sebastian
     When The user enters valid credentials that belongs to Eddie Murphy
     Then The user should be able to login
